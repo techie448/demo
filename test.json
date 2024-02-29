@@ -1,0 +1,15 @@
+{
+  "name": "Rishabh",
+  "ide": "Webstorm",
+  "products": [
+    {
+      "name": "macbook",
+      "category": "laptop"
+    },
+    {
+      "name": "iphone",
+      "category": "phone"
+    },
+    
+  ]
+}
